@@ -10,15 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+---
 
-### Lints and fixes files
-```
-npm run lint
-```
+*使用vuex、plop。列表dom，主要功能有添加，删除，更改状态等；plop为快速生成页面初始模板。*
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
